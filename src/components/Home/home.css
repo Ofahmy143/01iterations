@@ -5,3 +5,11 @@
 .blackCursor{
     cursor: url("../../../public/assets/cursor\ icons/01iters.png"),auto;
 }
+
+.cut{
+  max-height: 100vh;
+  object-fit: cover;
+  overflow: hidden;  
+  display: flex;
+  justify-content:center;
+}
