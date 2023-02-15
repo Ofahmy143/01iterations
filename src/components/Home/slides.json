@@ -1,6 +1,6 @@
 [
     {
-      "src": "/assets/Carousel/slide1.jpg",
+      "src": "assets/Carousel/slide1.jpg",
       "id":"whiteCursor",
       "quote": {
         "title": "0 1  i t e r s",
@@ -8,21 +8,21 @@
       }
     },
     {
-      "src": "/assets/Carousel/slide4.jpg",
+      "src": "assets/Carousel/slide4.jpg",
       "quote": {
         "title": "Wood Court",
         "body": "Dedicated spaces for art, furniture, woordwork and sculptures."
       }
     },
      {
-      "src": "/assets/Carousel/slide2.jpg",
+      "src": "assets/Carousel/slide2.jpg",
       "quote": {
         "title": "Masa Villa",
         "body": "Nulla vitae elit libero, a pharetra augue mollis interdum."
       }
     },
     {
-      "src": "/assets/Carousel/slide5.jpg",
+      "src": "assets/Carousel/slide5.jpg",
       "quote": {
         "title": "Coming soon...",
         "body": ""
@@ -36,14 +36,14 @@
       }
     },
     {
-      "src": "/assets/Carousel/slide3.jpg",
+      "src": "assets/Carousel/slide3.jpg",
       "quote": {
         "title": "KOTOB- PROJECT",
         "body": "Product Showcase in different scenarios & color schemes."
       }
     },
     {
-      "src": "/assets/Carousel/slide6.jpg",
+      "src": "assets/Carousel/slide6.jpg",
       "quote": {
         "title": "Madrid apartment",
         "body": "Implementing the concept of minimal design."
