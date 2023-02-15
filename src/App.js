@@ -11,25 +11,11 @@ import {
 import './App.css';
 
 function App() {
-  // const[Body , setBody] = useState(0)
-  // let Body
-  // console.log(window.location.pathname);
-  // switch(window.location.pathname){
-  //   case "/":
-  //     Body=<Home />
-  //   break;
-  //   case "/projects":
-  //      Body = <Project />;
-  //     break;
 
-
-  //  }
   return (
     <Router>
     <div className='parent' >
-      <NavBar  />
-
-
+      <NavBar/>
     </div>
     </Router>
 
