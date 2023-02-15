@@ -13,3 +13,26 @@
   display: flex;
   justify-content:center;
 }
+
+.contain{
+display: flex;
+flex-direction: column;
+gap: 5px;
+}
+#teaserCards{
+  height: 400px;
+  /* min-width: 100px; */
+}
+#homeGrid{
+  grid-template-columns: repeat(auto-fit,minmax(15% , 1fr) );
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 10px;
+
+}
+
+.testContainer div{
+  width: 50%;
+  height: auto;
+  border: 2px solid red;
+}
