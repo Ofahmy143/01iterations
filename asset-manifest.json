@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ofahmy143.github.io/01iterations/static/css/main.bdee7fec.css",
-    "main.js": "/Ofahmy143.github.io/01iterations/static/js/main.659c37fe.js",
-    "static/js/787.2c744b6d.chunk.js": "/Ofahmy143.github.io/01iterations/static/js/787.2c744b6d.chunk.js",
-    "static/media/Avenir Light.ttf": "/Ofahmy143.github.io/01iterations/static/media/Avenir Light.8f47513e72894bc6169f.ttf",
-    "static/media/Caslon Titling MT W01.ttf": "/Ofahmy143.github.io/01iterations/static/media/Caslon Titling MT W01.475d31aa1ab49b05a1e6.ttf",
-    "index.html": "/Ofahmy143.github.io/01iterations/index.html",
-    "main.bdee7fec.css.map": "/Ofahmy143.github.io/01iterations/static/css/main.bdee7fec.css.map",
-    "main.659c37fe.js.map": "/Ofahmy143.github.io/01iterations/static/js/main.659c37fe.js.map",
-    "787.2c744b6d.chunk.js.map": "/Ofahmy143.github.io/01iterations/static/js/787.2c744b6d.chunk.js.map"
+    "main.css": "/01iterations/static/css/main.4a57b13c.css",
+    "main.js": "/01iterations/static/js/main.d83f4911.js",
+    "static/js/787.2c744b6d.chunk.js": "/01iterations/static/js/787.2c744b6d.chunk.js",
+    "static/media/Avenir Light.ttf": "/01iterations/static/media/Avenir Light.8f47513e72894bc6169f.ttf",
+    "static/media/Caslon Titling MT W01.ttf": "/01iterations/static/media/Caslon Titling MT W01.475d31aa1ab49b05a1e6.ttf",
+    "index.html": "/01iterations/index.html",
+    "main.4a57b13c.css.map": "/01iterations/static/css/main.4a57b13c.css.map",
+    "main.d83f4911.js.map": "/01iterations/static/js/main.d83f4911.js.map",
+    "787.2c744b6d.chunk.js.map": "/01iterations/static/js/787.2c744b6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdee7fec.css",
-    "static/js/main.659c37fe.js"
+    "static/css/main.4a57b13c.css",
+    "static/js/main.d83f4911.js"
   ]
 }
