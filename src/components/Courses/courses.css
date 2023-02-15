@@ -1,52 +1,33 @@
-.courseCard{
-    border: 1px solid red;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    position: absolute;
-    top:15vh;
-    left: 72%;
-    right:8%;
+html{
     background-color: #282A3A;
-    color:white;
-    
 }
-img {
-    object-fit: contain; /* scale the image to fit within the div while preserving its aspect ratio */
-    width: 100%; /* make the image fill the width of the div */
-    height: auto; /* automatically adjust the height to preserve the aspect ratio */
+.courses{
+    background-color: #282A3A;
+    margin: 0;
+    height: auto;
+    overflow: auto;
 }
-.courseTitle{
-    opacity:0.8;
-}
-.coursePrice{
-    font-weight: bold;
-    color: #C69749;
-}
-.enrollmentStatus{
+
+#coursesTitle{
     text-align: center;
-    background-color: #CD0404 ;
-    height: 3vh;
-    border-radius: 100px  100px  100px 100px ;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-  .courseContent h6{
-      font-family: Helvetica;
-      font-weight: bold;
-    }
-    .courseContent ul{
-        display: flex;
-        flex-direction: column;
-        gap:7px;
-    }
-    .courseContent{
-      display: flex;
-      flex-direction: column;
-      gap:10px;
-      opacity:0.8;
-    }
-  .text{
-    margin-left: 5px;
-  }
-  
+    margin-top: 100px;
+    margin-left: 20px;
+    color: white;
+    opacity: 0.9;
+}
+
+.courses hr{
+
+    width: 100%;
+    color: white;
+}
+
+#courseCardOutline{
+    height: 45vh;
+    width: 30vw;
+}
+
+#coursesGrid{
+        grid-template-columns: repeat(auto-fit,minmax(400px , 30%) );
+}
+
