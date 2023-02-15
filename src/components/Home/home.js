@@ -29,6 +29,12 @@ function Home() {
 
     },
     {      
+      title:"About",
+      shortDescription:"Have a look at the collection of services may they be of help to you",
+      id:"teaserCards"
+
+    },
+    {      
       title:"Contact",
       shortDescription:"Have a look at the collection of services may they be of help to you",
       id:"teaserCards"
@@ -45,7 +51,7 @@ function Home() {
         <img
           className="d-block w-100 cut"
           id= {slide.id !== undefined? slide.id : null}
-          src={slide.src}
+          src={`${process.env.PUBLIC_URL}${slide.src}`}
           alt={index + "slide"}
         />
         <Carousel.Caption>

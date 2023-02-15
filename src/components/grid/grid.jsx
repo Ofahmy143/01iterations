@@ -7,7 +7,7 @@ function Grid({type , cards , gridID}) {
     <div className='grid' id={gridID !== undefined? gridID : null}>
       {cards.map((card,index) => (
       <CardType key={index}
-        thumbnail={card.thumbnail}
+        thumbnail={`${process.env.PUBLIC_URL}${card.thumbnail}`}
         courseTitle={card.title}
         courseDescription={card.shortDescription}
         id={card.id}

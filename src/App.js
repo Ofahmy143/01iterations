@@ -1,4 +1,4 @@
-import { Fragment , useState } from 'react';
+import { Fragment , useEffect, useState } from 'react';
 import Home from '././components/Home/home'; 
 import NavBar from '././components/navBar/navBar';
 import Project from './components/Projects/projects';
@@ -11,9 +11,12 @@ import {
 import './App.css';
 
 function App() {
-
+  let url;
+  useEffect(()=>{
+    url = "/" + window.location.href.split("/").pop()
+  })
   return (
-    <Router>
+    <Router basename={url}>
     <div className='parent' >
       <NavBar/>
     </div>

@@ -3,49 +3,49 @@
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"assets/Carousel/slide5.jpg",
+        "thumbnail":"/assets/Carousel/slide5.jpg",
         "Gallery":""
     },
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"assets/Carousel/slide4.jpg",
+        "thumbnail":"/assets/Carousel/slide4.jpg",
         "Gallery":""
     },    
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"assets/Carousel/slide3.jpg",
+        "thumbnail":"/assets/Carousel/slide3.jpg",
         "Gallery":""
     },    
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"assets/Carousel/slide2.jpg",
+        "thumbnail":"/assets/Carousel/slide2.jpg",
         "Gallery":""
     },    
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/4edc76155607531.6357f5a96ca8a.png",
+        "thumbnail":"/assets/Carousel/slide8.png",
         "Gallery":""
     },    
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"https://cdn.discordapp.com/attachments/910313432258068522/1054516749149671464/07.png",
+        "thumbnail":"/assets/Carousel/slide7.png",
         "Gallery":""
     },    
     {
         "title":"Lorem Ipsum",
         "shortDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
         "fullDescription":"",
-        "thumbnail":"assets/Carousel/slide6.jpg",
+        "thumbnail":"/assets/Carousel/slide6.jpg",
         "Gallery":""
     }
 ]
